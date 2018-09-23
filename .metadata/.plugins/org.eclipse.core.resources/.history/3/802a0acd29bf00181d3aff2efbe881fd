@@ -1,0 +1,14 @@
+package com.java.list;
+
+import java.util.List;
+
+public class ArrayListExample {
+
+	
+	public static void main(String[] args) {
+		
+		List<Integer> list ={1,2};
+		
+		
+	}
+}
